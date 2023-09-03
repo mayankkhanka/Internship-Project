@@ -1,0 +1,2 @@
+Content Management Tool
+This project brings together the power of HTML and CSS to create a user-friendly Content Management Tool that empowers users to upload and manage blogs enriched with multimedia content. By keeping it simple and readable, I aim to provide an accessible platform for content creation that fosters effective communication and engagement.
